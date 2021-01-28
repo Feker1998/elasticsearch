@@ -6,7 +6,7 @@ http.port: 9200\
 cluster.name: feker\
 network.publish_host: 101.200.124.173
 
-#jvm.options(由于我服务区比较小，所以java堆小一些)\
+#jvm.options(由于我服务器比较小，所以java堆小一些)\
 -Xms512m\
 -Xmx512m
 
